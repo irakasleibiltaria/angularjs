@@ -1,4 +1,6 @@
 angularjs
 =========
 
-AngularJS examples
+AngularJS examples:
+
+http://angularjs.org/
