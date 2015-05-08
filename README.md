@@ -5,6 +5,14 @@ AngularJS examples:
 
 http://angularjs.org/
 
+https://angularjs.org/
+
+http://www.codecademy.com/learn/learn-angularjs
+
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro
+
+http://shop.oreilly.com/product/0636920033486.do
+
 ####Watch Video
 http://www.youtube.com/watch?v=ZhfUv0spHCY
 
